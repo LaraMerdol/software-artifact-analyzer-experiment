@@ -1,0 +1,4 @@
+neo4j:
+  uri: "bolt://ivis.cs.bilkent.edu.tr:3006"
+  user: "neo4j"
+  password: ""01234567""
